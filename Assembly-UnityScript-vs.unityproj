@@ -5,11 +5,11 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}</ProjectGuid>
+	<ProjectGuid>{7E183320-758B-8201-4BAA-2FF4A7ABC44B}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
-	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<AssemblyName>Assembly-UnityScript</AssemblyName>
 	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
 	<FileAlignment>512</FileAlignment>
 	<BaseDirectory>Assets</BaseDirectory>
@@ -46,16 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\scripts\DontDestroyMusicScript.cs" />
-     <Compile Include="Assets\scripts\Level2InstructionsScript.cs" />
-     <Compile Include="Assets\scripts\TagScript.cs" />
-     <Compile Include="Assets\scripts\TagScript2.cs" />
-     <Compile Include="Assets\scripts\TimeScript.cs" />
-     <Compile Include="Assets\scripts\endingwords.cs" />
-     <Compile Include="Assets\scripts\instructions.cs" />
-     <Compile Include="Assets\scripts\katamari.cs" />
-     <Compile Include="Assets\scripts\movearound.cs" />
-     <Compile Include="Assets\scripts\shittyfriend.cs" />
+     <Compile Include="Assets\scripts\NewBehaviourScript.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
