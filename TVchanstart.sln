@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{81DFD68E-A83A-70FF-7338-7B8B7F22A0B5}") = "sachs1", "Assembly-CSharp.csproj", "{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}"
+Project("{1928B764-21BA-613C-BDCB-1B43A614DBA9}") = "TVchanstart", "Assembly-CSharp.csproj", "{4B19AAC8-9DC8-A514-9244-C439436062BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9E2D247B-0FC4-A6F1-B173-DBEBACA5BB5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B19AAC8-9DC8-A514-9244-C439436062BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B19AAC8-9DC8-A514-9244-C439436062BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B19AAC8-9DC8-A514-9244-C439436062BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B19AAC8-9DC8-A514-9244-C439436062BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-										GlobalSection(MonoDevelopProperties) = preSolution
+																		GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
