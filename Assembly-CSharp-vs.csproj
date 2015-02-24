@@ -51,6 +51,7 @@
      <Compile Include="Assets\scripts\Level2InstructionsScript.cs" />
      <Compile Include="Assets\scripts\TagScript.cs" />
      <Compile Include="Assets\scripts\TagScript2.cs" />
+     <Compile Include="Assets\scripts\TextFileLevelScript.cs" />
      <Compile Include="Assets\scripts\TimeScript.cs" />
      <Compile Include="Assets\scripts\endingwords.cs" />
      <Compile Include="Assets\scripts\instructions.cs" />
