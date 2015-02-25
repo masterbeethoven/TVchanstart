@@ -23,7 +23,7 @@ public class Level2InstructionsScript : MonoBehaviour {
 	}
 	
 	void OnGUI () {
-		GUI.Box(new Rect(100, 100, 300, 100), "There are more of them now... "); {
+		GUI.Box(new Rect(100, 100, 300, 50), "They don't like it when you have friends,\n as random as they are."); {
 			//print ("You clicked the button!");
 		}
 	}

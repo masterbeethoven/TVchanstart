@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Scenes/friendslvl.unity
   - enabled: 1
     path: Assets/Scenes/morefriendslvl.unity
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/EndGame.unity

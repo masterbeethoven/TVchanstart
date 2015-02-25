@@ -9,9 +9,10 @@ public class shittyfriend : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	/*void Update () {
+		Destroy (GameObject.FindWithTag("Foe"));
 	
-	}
+	}*/
 	
 	void OnTriggerEnter() {
 		Destroy (gameObject);

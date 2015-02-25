@@ -14,12 +14,13 @@ public class TagScript2 : MonoBehaviour {
 		
 		
 		if(GameObject.FindWithTag("Foe") == null){
-			GameObject.Find ("Timer").SendMessage("EndGame");
-			//Application.LoadLevel("morefriendslvl");
+			//GameObject.Find ("Timer").SendMessage("EndGame");
+			Application.LoadLevel("EndGame");
 		}
 		
 		if(GameObject.FindWithTag("Friend") == null){
-			GameObject.Find ("Timer").SendMessage("EndGame");
+			//GameObject.Find ("Timer").SendMessage("EndGame");
+			Application.LoadLevel("EndGame");
 
 			//Application.LoadLevel("morefriendslvl");
 		}

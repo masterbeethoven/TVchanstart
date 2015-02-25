@@ -41,26 +41,22 @@ public class TextFileLevelScript : MonoBehaviour {
 			char c = rowArray[i];
 			
 			if(c == 'X'){
-				GameObject brick = Instantiate(Resources.Load("IOFriend")) as GameObject;
-				brick.transform.position = new Vector3(
-					i * brick.transform.localScale.x + offsetX, 
-					y * brick.transform.localScale.y + offsetY, 
+				GameObject friend = Instantiate(Resources.Load("IOFoe")) as GameObject;
+				friend.transform.position = new Vector3(
+					i * friend.transform.localScale.x + offsetX, 
+					y * friend.transform.localScale.y + offsetY, 
 					0);
 			} 
 
-			/*else if (c == 'S'){
-				GameObject sphere = Instantiate(Resources.Load("Sphere")) as GameObject;
-				sphere.transform.position = new Vector3(
-					i * sphere.transform.localScale.x + offsetX, 
-					y * sphere.transform.localScale.y + offsetY, 
+			else if (c == 'S'){
+				GameObject foe = Instantiate(Resources.Load("IOFriend")) as GameObject;
+				foe.transform.position = new Vector3(
+					i * foe.transform.localScale.x + offsetX, 
+					y * foe.transform.localScale.y + offsetY, 
 					0);
-			} else if (c == 'C'){
-				GameObject cyl = Instantiate(Resources.Load("Cylinder")) as GameObject;
-				cyl.transform.position = new Vector3(
-					i * cyl.transform.localScale.x + offsetX, 
-					y * cyl.transform.localScale.y + offsetY, 
-					0);
-			}*/
+			}
+		
 		}
 	}
+
 }

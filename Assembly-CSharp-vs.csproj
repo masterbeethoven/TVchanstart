@@ -49,6 +49,8 @@
      <Compile Include="Assets\scripts\DontDestroyMusicScript.cs" />
      <Compile Include="Assets\scripts\FastScript.cs" />
      <Compile Include="Assets\scripts\Level2InstructionsScript.cs" />
+     <Compile Include="Assets\scripts\MoveAround2.cs" />
+     <Compile Include="Assets\scripts\SavePlayer.cs" />
      <Compile Include="Assets\scripts\TagScript.cs" />
      <Compile Include="Assets\scripts\TagScript2.cs" />
      <Compile Include="Assets\scripts\TextFileLevelScript.cs" />
