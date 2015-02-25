@@ -272,6 +272,7 @@ GameObject:
   - 23: {fileID: 330407033}
   - 54: {fileID: 330407032}
   - 114: {fileID: 330407031}
+  - 114: {fileID: 330407037}
   m_Layer: 0
   m_Name: Foe
   m_TagString: Foe
@@ -356,6 +357,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
+--- !u!114 &330407037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 330407030}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335ca6ee8ec55486fb2e651d574c0519, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  littleboxes: {fileID: 0}
+  numToSpawn: 0
+  position: {x: 0, y: 0, z: 0}
 --- !u!1 &430396790
 GameObject:
   m_ObjectHideFlags: 0

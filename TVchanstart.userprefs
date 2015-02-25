@@ -1,6 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/SavePlayer.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/RandomObjects.cs">
     <Files>
       <File FileName="Assets/scripts/DontDestroyMusicScript.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/TimeScript.cs" Line="1" Column="1" />
@@ -10,13 +10,13 @@
       <File FileName="../gmod6/Assets/Scripts/Fish.cs" Line="1" Column="1" />
       <File FileName="../gmod4/Assets/scripts/trigger.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/TextFileLevelScript.cs" Line="1" Column="1" />
-      <File FileName="../../../Downloads/CodeLab1-2015/Assets/Scripts/AsciiLevelLoaderScript.cs" Line="54" Column="9" />
       <File FileName="Assets/scripts/TagScript2.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/shittyfriend.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/MoveAround2.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/instructions.cs" Line="1" Column="1" />
       <File FileName="Assets/scripts/Level2InstructionsScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/scripts/SavePlayer.cs" Line="34" Column="19" />
+      <File FileName="Assets/scripts/SavePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/RandomObjects.cs" Line="17" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
