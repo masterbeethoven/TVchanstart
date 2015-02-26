@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class katamari : MonoBehaviour {
+public class Katamari : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

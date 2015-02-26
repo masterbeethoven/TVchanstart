@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MoveAround2 : MonoBehaviour {
+public class MoveAround : MonoBehaviour {
 	
 	//creating vectors for movement 
 	//Vector3 rightmove = new Vector3 (10f, 0f, 0f);

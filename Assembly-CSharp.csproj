@@ -47,20 +47,21 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\DontDestroyMusicScript.cs" />
+     <Compile Include="Assets\scripts\EndingWords.cs" />
      <Compile Include="Assets\scripts\FastScript.cs" />
+     <Compile Include="Assets\scripts\FoeScript.cs" />
+     <Compile Include="Assets\scripts\Instructions.cs" />
+     <Compile Include="Assets\scripts\Katamari.cs" />
      <Compile Include="Assets\scripts\Level2InstructionsScript.cs" />
+     <Compile Include="Assets\scripts\MoveAround.cs" />
      <Compile Include="Assets\scripts\MoveAround2.cs" />
      <Compile Include="Assets\scripts\RandomObjects.cs" />
      <Compile Include="Assets\scripts\SavePlayer.cs" />
      <Compile Include="Assets\scripts\TagScript.cs" />
      <Compile Include="Assets\scripts\TagScript2.cs" />
      <Compile Include="Assets\scripts\TextFileLevelScript.cs" />
+     <Compile Include="Assets\scripts\TextFileLevelScript2.cs" />
      <Compile Include="Assets\scripts\TimeScript.cs" />
-     <Compile Include="Assets\scripts\endingwords.cs" />
-     <Compile Include="Assets\scripts\instructions.cs" />
-     <Compile Include="Assets\scripts\katamari.cs" />
-     <Compile Include="Assets\scripts\movearound.cs" />
-     <Compile Include="Assets\scripts\shittyfriend.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>

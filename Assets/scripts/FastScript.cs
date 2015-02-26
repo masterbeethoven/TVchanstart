@@ -16,7 +16,7 @@ public class FastScript : MonoBehaviour {
 		if(GameObject.FindWithTag("Fast")){
 			if (Input.GetKey(KeyCode.RightArrow))
 			{
-				rigidbody.AddForce(Vector3.right*10);
+				rigidbody.AddForce(Vector3.right*5);
 				//transform.position += rightmove * Time.deltaTime; 
 			}
 

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class endingwords : MonoBehaviour {
+public class EndingWords : MonoBehaviour {
 	//bool endtext=false;
 	//this was supposed to show up at the end 
 	//public TextMesh npcDialog;
